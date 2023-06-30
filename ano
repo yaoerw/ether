@@ -1,0 +1,8 @@
+    },
+    "html": {
+      "toc": true,
+      "index": true,
+      "syntaxhighlighting": true,
+      "show_comments": false,
+      "consolidated": true
+    }
